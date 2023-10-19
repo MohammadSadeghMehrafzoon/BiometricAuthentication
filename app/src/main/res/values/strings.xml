@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Biometric Authentication</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="username_hint">phone number, email, or username</string>
+    <string name="hint_message_input">Enter a message and keep it secret</string>
+    <string name="use_biometrics">Use Biometrics to Login</string>
+    <string name="encrypt_message">Encrypt Message</string>
+    <string name="decrypt_message">Decrypt Message</string>
+    <string name="message_saved">Your secret is saved!</string>
+    <string name="hint_unlock">Your messages is safe and secret!\nUnlock with your Biometrics.</string>
+    <string name="parcel_message">parcel_message</string>
+    <string name="hint_no_message">You haven\'t stored any message yet!</string>
+    <string name="message_no_biometric">Biomteric signature not found! Setup your Biomterics first from the device settings.</string>
+    <string name="message_encryption_failed">Encryption Failed</string>
+</resources>
