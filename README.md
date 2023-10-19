@@ -4,10 +4,13 @@ Biometric authentication allows you to quickly unlock your device with your fing
 
 This app will securely store your messages, so only you can unlock them using your biometric signature. You’ll learn how to:
 
-Integrate the AndroidX Biometric Library.
-Authenticate a user through a biometric prompt.
-Encrypt and decrypt sensitive information using biometric credentials.
-Properly handle successful or failed authentication.
+ 1. Integrate the AndroidX Biometric Library.
+ 2. Authenticate a user through a biometric prompt.
+ 3. Encrypt and decrypt sensitive information using biometric credentials.
+ 4. Properly handle successful or failed authentication.
+
+
+
 Note: This tutorial requires a device that has biometric authentication capability, either fingerprint or Android face recognition. The examples and sample code here will focus on the fingerprint authentication process.
 
 # Screenshots:
